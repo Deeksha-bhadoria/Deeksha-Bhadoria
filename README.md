@@ -57,6 +57,6 @@ I'm open to data analyst and business analyst opportunities.
 
 Best way to reach me is LinkedIn — I check it regularly and respond quickly.
 
----
+![Snake animation](https://raw.githubusercontent.com/Deeksha-bhadoria/Deeksha-bhadoria/output/github-snake.svg)
 
 *"Data is only useful when it changes a decision."*
