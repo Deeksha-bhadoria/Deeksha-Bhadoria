@@ -1,8 +1,6 @@
 # Hey, I'm Deeksha 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=Deeksha-bhadoria&color=0e75b6&style=flat-square&label=Profile+views)
-
-I'm a Associate at Carelon Global Solutions, where I turn messy claims data into decisions that actually matter. I work mostly at the intersection of healthcare operations and business intelligence — cleaning data, writing queries, and building dashboards that tell a clear story.
+I'm a data analyst at Carelon Global Solutions, where I turn messy claims data into decisions that actually matter. I work mostly at the intersection of healthcare operations and business intelligence — cleaning data, writing queries, and building dashboards that tell a clear story.
 
 I like projects that answer real business questions, not just exercises in tools.
 
@@ -12,14 +10,17 @@ I like projects that answer real business questions, not just exercises in tools
 
 <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,js,react&theme=light" />
 
-**Analytics & BI** — SQL · Python (Pandas, pandasql) · Power BI · Advanced Excel
-**Workflow** — Jupyter Notebook · GitHub · Power Query
-**Domain** — Healthcare Revenue Cycle · Insurance Claims · Financial Reporting
+<br/>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deeksha-bhadoria&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha-bhadoria&layout=compact&hide_border=true&theme=default&langs_count=6" height="150"/>
-</p>
+| Analytics & BI | Workflow | Domain |
+|---|---|---|
+| SQL · Python · Power BI · Advanced Excel | Jupyter · GitHub · Power Query | Healthcare Revenue Cycle · Insurance Claims |
+
+<br/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deeksha-bhadoria&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Deeksha-bhadoria)
+&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha-bhadoria&layout=compact&hide_border=true&theme=default&langs_count=6)](https://github.com/Deeksha-bhadoria)
 
 ---
 
@@ -58,8 +59,4 @@ Best way to reach me is LinkedIn — I check it regularly and respond quickly.
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/Deeksha-bhadoria/Deeksha-bhadoria/output/github-snake.svg)
-
 *"Data is only useful when it changes a decision."*
-
-
