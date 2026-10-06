@@ -1,6 +1,6 @@
 # Hey, I'm Deeksha 👋
 
-I'm a Associate at Carelon Global Solutions, where I turn messy claims data into decisions that actually matter. I work mostly at the intersection of healthcare operations and business intelligence — cleaning data, writing queries, and building dashboards that tell a clear story.
+I'm a Senior Associate at Carelon Global Solutions, where I turn messy claims data into decisions that actually matter. I work mostly at the intersection of healthcare operations and business intelligence — cleaning data, writing queries, and building dashboards that tell a clear story.
 
 I like projects that answer real business questions, not just exercises in tools.
 
